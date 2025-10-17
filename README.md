@@ -18,3 +18,4 @@ for each row:
  - move to the next row using the best bottom match of the last piece
 stitch all rows and coloumns into one image
 save the final image as "solved_puzzle.png"
+
